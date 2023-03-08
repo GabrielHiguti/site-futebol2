@@ -40,7 +40,7 @@ body{
 
 }
 .nav .menu{
-    width: 10%;
+    width: 30%;
 }
 .nav .menu ul{
     display: flex;
@@ -50,7 +50,7 @@ body{
 }
 .nav .menu ul li{
     list-style: none;
-    padding: 6%;
+    padding: 2%;
 
 }
 .nav .menu ul li a{
